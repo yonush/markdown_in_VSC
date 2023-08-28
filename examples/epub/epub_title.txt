@@ -1,0 +1,14 @@
+---
+cover-image: .//coverpage.png
+title: 
+- type: main
+  text: Markdown
+- type: subtitle
+  text: Markdown syntax guide
+creator:
+- role: author
+  text: John Gruber
+
+rights:  © 2023 John Gruber
+language: en-US
+...
