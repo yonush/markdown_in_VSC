@@ -1,4 +1,4 @@
-# Using the Markdown resources
+# Using the Markdown with Visual Studio Code
 
 This folder contains various markdown examples with the primary example using markdown with Visual Studio Code and various extensions.
 
